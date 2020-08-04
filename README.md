@@ -21,7 +21,7 @@ This side-by-side comparative method is seen in the GIF image below.
 
 ## Live Demo
 
-To quickly see our project in action, visit the [live demo](https://repl.it/@rloterh/BubbleSort#bubble_sort.rb) on repl.it.
+To quickly see our project in action, visit the [live demo]https://repl.it/@rloterh/NavajowhiteBrilliantModules) on repl.it.
 
 ## Getting Started
 
@@ -63,7 +63,7 @@ To get this project up and running, you must already have ruby installed on your
 
 ## 🤝 Contributing
 
-The best way you can contribute to this project is by submitting an [issue](https://github.com/Joseph-Burke/Bubble-Sort/issues) to help us improve it!
+The best way you can contribute to this project is by submitting an [issue](https://github.com/rloterh/BubbleSort/issues) to help us improve it!
 
 ## Show your support
 
