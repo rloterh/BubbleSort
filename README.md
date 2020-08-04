@@ -3,10 +3,6 @@ Ruby - Bubble sort assignment
 
 > For this project, we created two **sorting algorithms** that use the [bubble sort](https://en.wikipedia.org/wiki/Bubble_sort) method. 
 
-This side-by-side comparative method is seen in the GIF image below.
-
-![image](assets/bubble-sort-demonstration.gif)
-
 
 > The first bubble sort method sorts an array of integers by value, comparing adjacent values with the <=> "spaceship" operator.
 
