@@ -1,17 +1,17 @@
-def bubble_sort(test_array)
-    size = test_array.size
+def bubble_sort(sample_array)
+    array_length = sample_array.size
     i = 0
-    while i < (size - 1)
+    while i < (array_length - 1)
         j = 0
-        while j < size - i - 1
-            if more (test_array[j], test_array[j + 1])
-                #Swapping
-                temp = test_array[j]
-                test_array[j] = [j + 1]
-                test_array[j + 1] = temp 
+        while j < (array_length -1) - i
+            if (sample_array[j] > sample_array[j + 1])
+                temp = sample_array[j]
+                sample_array[j] = sample_array[j + 1]
+                sample_array[j + 1] = temp
             end
-            j++
+            j += 1
         end
-        i++
+        i += 1
     end
 end
+
