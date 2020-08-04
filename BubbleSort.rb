@@ -13,5 +13,11 @@ def bubble_sort(sample_array)
         end
         i += 1
     end
+    p sample_array
 end
+
+# Test code
+some_array = [8, 9, 4, 7, 12, 6, 2, 3, 5]
+bubble_sort(some_array)
+
 
