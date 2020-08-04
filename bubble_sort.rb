@@ -35,9 +35,8 @@ def bubble_sort_by(sample_array)
     end
     i += 1
   end
-  p sample_array
+  puts sample_array
 end
 
 # Test code
-test_run = bubble_sort_by(%w[the quick browned fox]) { |left, right| left.length - right.length }
-puts test_run
+bubble_sort_by(%w[the quick browned fox]) { |left, right| left.length - right.length }
