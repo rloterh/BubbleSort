@@ -5,9 +5,9 @@ def bubble_sort(sample_array)
     j = 0
     while j < (array_length - 1) - i
       if sample_array[j] > sample_array[j + 1]
-        temp = sample_array[j]
+        temp_var = sample_array[j]
         sample_array[j] = sample_array[j + 1]
-        sample_array[j + 1] = temp
+        sample_array[j + 1] = temp_var
       end
       j += 1
     end
@@ -27,15 +27,15 @@ def bubble_sort_by(sample_array)
     j = 0
     while j < (array_length - 1) - i
       if (yield sample_array[j], sample_array[j + 1]).positive?
-        temp = sample_array[j]
+        temp_var = sample_array[j]
         sample_array[j] = sample_array[j + 1]
-        sample_array[j + 1] = temp
+        sample_array[j + 1] = temp_var
       end
       j += 1
     end
     i += 1
   end
-  puts sample_array
+  p sample_array
 end
 
 # Test code
