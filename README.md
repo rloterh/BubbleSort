@@ -12,7 +12,7 @@ For this project, 2 sorting algorithm are implemented.
 
 ## Live Demo
 
-[live demo]https://repl.it/@rloterh/NavajowhiteBrilliantModules)
+[Live demo](https://repl.it/@rloterh/NavajowhiteBrilliantModules/)
 
 ## Getting Started
 
