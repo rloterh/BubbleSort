@@ -28,7 +28,7 @@ Ruby must already be installed on your computer
 4. - Result is displayed in the terminal
 
 
-## Authors
+## Author
 
 ### 👨‍💻 Robert Loterh
 
