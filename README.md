@@ -1,9 +1,10 @@
 # BubbleSort (Microverse Ruby Module)
+
 ![Microverse](https://img.shields.io/badge/-Microverse-007bff?style=for-the-badge)
 
 
 ## Description 
-For this project, 2 sorting algorithm are implemented.
+2 sorting algorithm are implemented. The requirements for this project is a part of [The Odin Project](https://www.theodinproject.com/).
 
 
 ## Built With
